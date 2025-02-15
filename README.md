@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey, I'm Nitish Sharma, a web developer with skills in HTML, CSS, JavaScript, React.js, and Java. I hold a BCA Degree from Tilak Maharashtra University and am looking for new opportunities in web development. My projects include an E-commerce website and a Railway Reservation System. I've also interned at Ierix Infotech, where I developed expertise in Tailwind CSS, Bootstrap, and Git. Check out my work on GitHub and Devfolio.
+Hey, I'm Nitish Sharma,
+Results-driven web developer with expertise in front-end and back-end technologies. Started as an intern at Ierix Infotech and secured a full-time role within three months. Contributed to multiple projects, gaining proficiency in React, Bootstrap, GitHub, Core Java, Spring Framework, Hibernate, and REST API development. Passionate about developing scalable, high-performance applications and continuously enhancing technical expertise to drive innovation.
 
 
 ## 🌐 Socials:
